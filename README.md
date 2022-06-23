@@ -56,3 +56,11 @@ $ python inference.py\
   --loader_path   =TEST_DATALOADER_PATH            # test dataloader의 경로(data/test_dataloader.pkl)
   --save_sub_path =SAVE_SUBMISSION_FILE_PATH     # 저장할 submission.csv 파일 경로
 ```
+
+
+***
+# 📑 Results
+**Public score**:     
+    
+
+Ensemble, Regularzation, Data agmentation을 통해 성능 향상을 노릴 수 있음
