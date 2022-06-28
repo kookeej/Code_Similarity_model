@@ -60,7 +60,7 @@ $ python inference.py\
 
 ***
 # 📑 Results
-**Public score**:     
-    
+**Public score**: 0.85885   
+epoch: 6    
 
 Ensemble, Regularzation, Data agmentation을 통해 성능 향상을 노릴 수 있음
