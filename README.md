@@ -25,7 +25,7 @@ train_dataloader = pickle.load(open('data/train_dataloader.pkl', 'rb'))
 ```
 
 # 2. Model
-* `sentence bert`의 `cross-encoder` 구조를 사용하여 설계했습니다.         
+* `bi-encoder` 구조를 사용하여 설계했습니다.         
 ![](https://raw.githubusercontent.com/UKPLab/sentence-transformers/master/docs/img/BiEncoder.png)
 
 
